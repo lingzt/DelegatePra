@@ -19,9 +19,10 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+//Method1 - delegate +refer containView to ChildVC
 -(void)viewDidAppear:(BOOL)animated{
-    MapViewController *mvc = self.childViewControllers[0];
-    [self setDelegate:mvc];
+//    MapViewController *mvc = self.childViewControllers[0];
+//    [self setDelegate:mvc];
 
 }
 
@@ -37,9 +38,9 @@
     [self.delegate changeMaker];
 }
 
-//This one works too
+//Method2 - delegate +refer containView to segue destinationViewController
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
-//    MapViewController *mvc = [segue destinationViewController];
-//    [self setDelegate:mvc];
+    MapViewController *mvc = [segue destinationViewController];
+    [self setDelegate:mvc];
 }
 @end
