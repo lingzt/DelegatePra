@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2F144307187E30A885C3984F65DEB498B17EFA67",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6A8443E68A83854126ACF5358FB86F4E40318D76" : 0,
+    "2F144307187E30A885C3984F65DEB498B17EFA67" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C2705EFC-BA8B-4893-8B30-D8922E3C74B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6A8443E68A83854126ACF5358FB86F4E40318D76" : "..",
+    "2F144307187E30A885C3984F65DEB498B17EFA67" : "DelegatePra\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DelegatePra",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DelegatePra\/DelegatePra.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lingzt\/DelegatePra.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F144307187E30A885C3984F65DEB498B17EFA67"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lingzt\/GMapPra.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A8443E68A83854126ACF5358FB86F4E40318D76"
+    }
+  ]
+}
